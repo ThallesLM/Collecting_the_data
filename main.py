@@ -118,6 +118,6 @@ def update_output_container(selected_statistics, selected_year):
             # Rest of your code for other plots...
         ]
 
-# Run the Dash app
+# Run the Dash app (Main)
 if __name__ == '__main__':
     app.run_server(debug=True)
